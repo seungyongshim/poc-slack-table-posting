@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="ConsoleTables" Version="2.6.1" />
     <PackageReference Include="Markdig" Version="0.34.0" />
-    <PackageReference Include="Slack.NetStandard" Version="8.1.1" />
+    <PackageReference Include="Slack.NetStandard" Version="9.1.0" />
   </ItemGroup>
 
 </Project>
